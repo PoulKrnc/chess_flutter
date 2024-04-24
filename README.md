@@ -1,3 +1,1 @@
-# chess_flutter
-
-A new Flutter project.
+Just a simple chess made with Flutter
